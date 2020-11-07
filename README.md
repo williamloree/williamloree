@@ -5,4 +5,4 @@
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 
 
-![Williamloree's github stats](https://github-readme-stats.vercel.app/api?username=williamloree&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Williamloree's github stats](https://github-readme-stats.vercel.app/api?username=williamloree&count_private=true&theme=tokyonight&hide=stars,commits,prs,issues,contribs)
