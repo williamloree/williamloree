@@ -63,7 +63,7 @@ I am a young 22 year old developer in third year at EPSI, I love to code and lea
 ![Williamloree's github stats](https://github-readme-stats.vercel.app/api?username=williamloree&count_private=true&theme=tokyonight)
 
 [course]: http://i-ducation.fr
-[website]: https://williamloree.fr
+[website]: http://williamloree.fr
 [twitter]: https://twitter.com/Lse_Mreye
 [instagram]: https://instagram.com/will_newcal
 [linkedin]: https://www.linkedin.com/in/william-loree/
