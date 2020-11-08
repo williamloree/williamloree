@@ -5,7 +5,7 @@ I am a young 22 year old developer in third year at EPSI, I love to code and lea
 <br>
 
 [![Website](https://img.shields.io/website?label=williamloree.fr&style=for-the-badge&url=http://williamloree.fr)](http://williamloree.fr)
-[![Website](https://img.shields.io/website?label=i-ducation.fr&style=for-the-badge&url=http://i-ducation.fr)](http://i-ducation.fr)
+<!-- [![Website](https://img.shields.io/website?label=i-ducation.fr&style=for-the-badge&url=http://i-ducation.fr)](http://i-ducation.fr) -->
 
 ## I'm a Student and Developer !!
 
